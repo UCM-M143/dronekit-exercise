@@ -47,6 +47,6 @@ python mission_basic.py
 
 ## Write your own program
 
-Based on the [`Example: Vehicle State`](https://github.com/dronekit/dronekit-python/blob/master/examples/vehicle_state/vehicle_state.py), modify it so that it only prints Global Location
+Based on the [`Example: Vehicle State`](https://github.com/dronekit/dronekit-python/blob/master/examples/vehicle_state/vehicle_state.py), modify it so that it only prints `Global Location`
 
 Here is an screenshot of an example output
