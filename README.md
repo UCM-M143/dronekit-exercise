@@ -45,3 +45,6 @@ cd /tmp/dronekit-python/examples/mission_basic
 python mission_basic.py
 ```
 
+## Write your own program
+
+Based on the `Example: Vehicle State`, modify it so that it only prints Global Location
