@@ -48,3 +48,5 @@ python mission_basic.py
 ## Write your own program
 
 Based on the `Example: Vehicle State`, modify it so that it only prints Global Location
+
+Here is an screenshot of an example output
