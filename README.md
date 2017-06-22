@@ -1,6 +1,6 @@
-# dronekit-exercise
+# DroneKit-exercise
 
-## open a terminal and then install dronekit
+## Open a terminal and then install dronekit
 
 ```
 sudo apt-get install python-pip python-dev python-numpy
@@ -50,4 +50,4 @@ python mission_basic.py
 Based on the [`Example: Vehicle State`](https://github.com/dronekit/dronekit-python/blob/master/examples/vehicle_state/vehicle_state.py), modify it so that it only prints `Global Location`
 
 Here is an screenshot of an example output   
-![Alt text](/dronekit.png?raw=true "Screenshot of successful run")
+![Alt text](https://github.com/UCM-ME190/dronekit-exercise/raw/master/dronekit.png?raw=true "Screenshot of successful run")
